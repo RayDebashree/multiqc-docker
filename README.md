@@ -1,3 +1,4 @@
+[![Docker Image CI](https://github.com/adeslatt/multiqc-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/adeslatt/multiqc-docker/actions/workflows/docker-image.yml)
 # multiqc-docker
 Build a Container for multiqc from bioconda
 
